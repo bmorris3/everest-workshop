@@ -13,7 +13,7 @@ cd everest-workshop
 
 **[Optional]** If you want a sweet progress bar when you run this code, install **tqdm**:
 ```
-pip install everest-pipeline
+pip install tqdm
 ```
 
 You're good to go.
